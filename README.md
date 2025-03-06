@@ -1,4 +1,3 @@
-# Excel Sales Analysis
 
 ## Project Overview
 
